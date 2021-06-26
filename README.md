@@ -1,4 +1,2 @@
-# MyPortfolio
-A personal website with a bunch of JavaScript animation, I used a pure CSS only for design.
-Yoyo, I know you may think you could modify the codes to better 😒, Yes, right, so do it yourself😜
-I don't have enough free time to do it, regardlyಠ_ಠ.
+# Kurdistan.org
+This is my newest work for an organization, learned alot from it and feeling comfortable with what I have been created. And as always I want to share the code with all of you so you can see and review the code yourself😊, hope you will learn something cool and enjoy it
